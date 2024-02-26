@@ -1,6 +1,6 @@
-Hello there, I am front-end developer at Smart Rent (Zipato).
+Hello there, I am front-end developer at SmartRent.
 
-I am working on native mobile application, application where customers can configure and maintain their smart home.
+I work on native mobile application and web solutions. Applications where customers can configure and maintain their smart home.
 
 Tech stack
 
